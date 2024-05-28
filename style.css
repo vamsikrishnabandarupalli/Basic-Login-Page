@@ -1,0 +1,35 @@
+#div1{
+    border: 1px solid white;
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 500px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    background-color: transparent;
+
+}
+input{
+    margin-bottom:10px ;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 5px;
+}
+label{
+    display: block;
+    margin-bottom: 10px; 
+}
+#bun{
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+}
+body{
+    background-image: url(nature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
